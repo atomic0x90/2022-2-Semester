@@ -1,0 +1,10 @@
+/* 
+input program
+*/
+program Sample;
+main
+var m : int;
+begin
+if(1 < 2) then while(3 != 2) call test (a)
+return (1)
+end .
